@@ -3,7 +3,8 @@
   <title> HTML 1st time </title>
 
   <body>
-    
+    <h1>This is header</h1>
+    <p>This is paragraph lorem ipsum.</p>
   </body>
 
 </html>
